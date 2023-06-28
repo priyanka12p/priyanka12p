@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Priyanka. I am a software developer.
-- 👀 I’m interested in Javascript, PHP, AJAX, CSS and HTML.
+- 👀 I’m interested in C++, Go Lang, Shell Script, Javascript, Cloud computing.
 - 🌱 I’m trying to get better in these technologies and contribute towards web development.
 - 💞️ I’m looking to collaborate on Web development projects.
 - 📫 How to reach me : Write a mail to me at: priyankap.btech@gmail.com or visit my linkedin profile: ppriyanka13 
